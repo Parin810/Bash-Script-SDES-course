@@ -1,4 +1,4 @@
 # Bash-Script-SDES-course
 
-Exercise 1: CSV manipulation usinf "AWK"
+Exercise 1: CSV manipulation using "AWK"
 
