@@ -25,7 +25,7 @@ a script that does the following
 
             executes in a directory that has many rollnumber.sh files
 
-            this script just looks for all rollnumber.sh files (except its  		    own name).
+            this script just looks for all rollnumber.sh files (except its own name).
 
             call this script file: ceed_partsAB_checker.sh
 
@@ -37,7 +37,7 @@ a script that does the following
 
             makes ONE csv file for all rollnumbers with columns
 
-            rollnum-header, mark-header rollnum, mark rollnum, mark 		    rollnum, mark
+            rollnum-header, mark-header rollnum, mark rollnum, mark,rollnum, mark
 
             (to simplify your assignment, your script can assume each student's script terminates, and no need of a "time-out" outer loop to save oneself from others' infinite loops!
 
